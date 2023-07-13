@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Mbithi</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
-<img align = "right" alt = "Coding" width = "400" src ="https://media.tenor.com/ze8jE44PCJYAAAAC/saitama-onepunchman.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ze8jE44PCJYAAAAC/saitama-onepunchman.gif" style="border-radius: 50%;">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
