@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Mbithi</h1>
-<h3 align="center">A passionate backend developer from Kenya</h3>
+<h3 align="center">A passionate developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/ze8jE44PCJYAAAAC/saitama-onepunchman.gif" style="border-radius: 50%;">
 
 
