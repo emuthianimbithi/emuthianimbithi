@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Mbithi</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/ofKKbAiVczQAAAAC/gojo-gojo-saotoru.gif" style="border-radius: 50%;">
+<img align="right" alt="Coding" width="400" src="https://preview.redd.it/03pzqsvvjosd1.gif?width=960&format=mp4&s=16859f46ffdf6a75d84af55ac6923dcc39dedd0c" style="border-radius: 50%;">
 
 
 <h3 align="left">Connect with me:</h3>
