@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Mbithi</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" alt="Coding" width="400" src="https://preview.redd.it/03pzqsvvjosd1.gif?width=960&format=mp4&s=16859f46ffdf6a75d84af55ac6923dcc39dedd0c" style="border-radius: 50%;">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.alphacoders.com%2Fgifs%2Fview%2F223093&psig=AOvVaw05hH3gaS2da-HR6KPdZ5wB&ust=1751728243593000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODnw7G-o44DFQAAAAAdAAAAABAE" style="border-radius: 50%;">
 
 
 <h3 align="left">Connect with me:</h3>
