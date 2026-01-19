@@ -1,62 +1,82 @@
 # Hi there! 👋 I'm Emmanuel Mbithi
 
-### 🚀 Passionate Developer | Backend Engineer | Cloud Enthusiast
+### 🚀 Backend Engineer | Distributed Systems | Cloud-Native Enthusiast
 
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/220/220162.gif">
+<img align="right" alt="Coding" width="380" src="https://giffiles.alphacoders.com/220/220162.gif" />
 
-Welcome to my GitHub profile! I'm a dedicated developer who loves building scalable solutions and exploring new technologies. I specialize in backend development with a strong focus on performance, reliability, and clean code.
+I’m a backend-focused software engineer passionate about building **scalable, reliable, and high‑performance systems**. I enjoy working close to the metal when needed, designing clean APIs, and operating production workloads in the cloud.
 
-## 🔧 Tech Stack & Tools
+---
 
-**Languages:**
-- 🐹 **Go** - My go-to for high-performance backend services
-- 🐍 **Python** - Data processing, automation, and web development  
-- 🦀 **Rust** - Systems programming and performance-critical applications
-- 💻 **C** - Low-level programming and embedded systems
-- 📘 **TypeScript** - Full-stack web development
+## 🧠 What I Do Best
 
-**Infrastructure & Databases:**
-- ☁️ **Google Cloud Platform** - Cloud architecture and deployment
-- 🐳 **Docker** - Containerization and microservices
-- 🍃 **MongoDB** - NoSQL database solutions
-- 🐘 **PostgreSQL** - Relational database design
-- 🔴 **Redis** - Caching and session management
+* Design and build **distributed backend systems**
+* Develop **high‑performance services** with strong correctness guarantees
+* Architect **cloud‑native infrastructure** on GCP
+* Optimize databases and critical paths for **latency & throughput**
+* Write **clean, maintainable, production‑ready code**
+
+---
+
+## 🔧 Tech Stack
+
+### Languages
+
+* 🐹 **Go** – Primary language for backend & microservices
+* 🐍 **Python** – Automation, data pipelines, internal tooling
+* 🦀 **Rust** – Systems programming & performance‑critical components
+* 💻 **C** – Low‑level and embedded programming
+* 📘 **TypeScript** – Full‑stack & API integrations
+
+### Infrastructure & Datastores
+
+* ☁️ **Google Cloud Platform (GCP)** – Cloud architecture & deployment
+* 🐳 **Docker** – Containers & microservices
+* 🐘 **PostgreSQL** – Relational modeling & query optimization
+* 🍃 **MongoDB** – NoSQL workloads
+* 🔴 **Redis** – Caching, queues & session storage
+
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emuthianimbithi&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emuthianimbithi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emuthianimbithi&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emuthianimbithi&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
-</p>
+---
 
-## 🌱 What I'm Currently Working On
+## 🌱 Currently Focused On
 
-- Building microservices with Go and gRPC
-- Exploring cloud-native architectures on GCP
-- Contributing to open-source Rust projects
-- Learning advanced PostgreSQL optimization techniques
+* Building **Go microservices** with gRPC & event-driven patterns
+* Designing **cloud-native architectures** on GCP
+* Contributing to **open-source Rust** projects
+* Deep‑diving into **PostgreSQL internals & performance tuning**
+
+---
 
 ## 💡 Interests
 
-- **Backend Architecture** - Designing scalable and maintainable systems
-- **Performance Optimization** - Making applications faster and more efficient
-- **DevOps & Cloud** - Automating deployments and infrastructure
-- **Open Source** - Contributing to the developer community
+* Backend & API Architecture
+* Distributed Systems
+* Performance Engineering
+* DevOps & Infrastructure Automation
+* Open Source Software
 
-## 📫 Let's Connect!
+---
+
+## 📫 Let’s Connect
 
 <p align="left">
   <a href="https://instagram.com/mbithisgarage" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:emmanuel@leta.ai" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/emmanuel-mbithi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
